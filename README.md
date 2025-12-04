@@ -1,16 +1,22 @@
-## Hi there 👋
+🛡️ System Identity: SystemEndgame
 
-<!--
-**SystemEndgame/SystemEndgame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Security Architect at TGAntiForward
 
-Here are some ideas to get you started:
+I specialize in Offensive Security, Anti-Bot Engineering, and Digital Rights Management (DRM) for Telegram. My code protects premium content creators from automated scraping networks and unauthorized distribution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Core Stack
+
+🚀 Featured Project: TGAntiForward
+
+The #1 Anti-Forwarding & Content Protection Bot.
+
+Blocks automated userbots & scrapers (Latency Guard).
+
+Prevents content leaking via Discord bridges.
+
+Injects invisible Ghost Watermarks into images.
+
+👉 View Source Code / Demo
+👉 Visit Official Site
+
+📊 GitHub Analytics
