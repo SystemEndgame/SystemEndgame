@@ -16,7 +16,6 @@ Prevents content leaking via Discord bridges.
 
 Injects invisible Ghost Watermarks into images.
 
-👉 View Source Code / Demo
-👉 Visit Official Site
+👉 [Visit Official Website](https://tgantiforward.com/)
 
 📊 GitHub Analytics
